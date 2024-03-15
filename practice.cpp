@@ -64,6 +64,37 @@ int main()
     // Node *root = new Node(nodes[0]);
     build(n,nodes,p);
     // now we want to print the tree
-    
+    /*
+    Input:
+    15 1
+LLL
+2
+LL
+3
+L
+4
+RR
+5
+R
+6
+LLRLL
+7
+LLR
+8
+LLRL
+9
+LLRLR
+10
+LRRRR
+11
+LRRL
+12
+LRRR
+13
+LRR
+14
+LR
+15
+        */
  return 0;
 }
